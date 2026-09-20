@@ -3,6 +3,6 @@
 
 ## Experiment 1
 
-Practice Git, GitHub, Codex and LaTeX.
+Practice Git, GitHub, Codex and LaTeX. Test remote synchronization.
 
 Run the demo: python code/demo.py
